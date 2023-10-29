@@ -170,5 +170,5 @@ class ApiController extends Controller
             return response(['message' => 'User id is required!', 'code' => 202]);
         }
     }
-
+    
 }
